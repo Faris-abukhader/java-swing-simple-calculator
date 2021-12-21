@@ -18,7 +18,7 @@ simple calculator built by java swing with four main operation (+,-,*,/)
 
 <br/>
 
-من أحل تشغيل البرنامج بعد تحميل الفايل :
+من أجل تشغيل البرنامج بعد تحميل الفايل :
 <br/>
 
 
