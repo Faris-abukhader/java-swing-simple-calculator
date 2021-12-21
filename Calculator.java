@@ -21,7 +21,6 @@ public class Calculator extends JFrame implements ActionListener{
 		
 		// fix upper panel size
 		upperPanel.setPreferredSize(new Dimension(300,80));
-//		mainPanel.setLayout(new BoxLayout(mainPanel, BoxLayout.Y_AXIS));
 
 		
 	
